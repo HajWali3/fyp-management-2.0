@@ -2,6 +2,8 @@
 import React from "react";
 import Link from "next/link";
 import { Meteors } from "@/components/ui/meteors";
+import Footer from "@/components/ui/Footer";
+import Navbar from "@/components/Navbar";
 
 export default function SupervisorDashboard() {
   const totalStudents = 5;
@@ -11,6 +13,7 @@ export default function SupervisorDashboard() {
 
   return (
     <div className="">
+      <Navbar />
       <div className="grid grid-cols-1  lg:grid-cols-2 gap-5   pt-36 justify-items-center">
         {/* Card 1 */}
         <div className="flex justify-center">
@@ -173,6 +176,7 @@ export default function SupervisorDashboard() {
           </div>
         </div>
       </div>
+      <Footer />
     </div>
   );
 }

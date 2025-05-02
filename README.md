@@ -75,8 +75,9 @@ This system improves transparency, reduces paperwork, and tracks progress from p
 
 ## 📌 Tech Stack (Suggested)
 
-- Frontend: React.js + Tailwind CSS
-- Backend: Node.js + Express.js
+- Framework: Next.js (React + Node.js)
+- Backend: Next.js API Routes (Node.js)
+- Styling: Tailwind CSS
 - Database: MongoDB
 - Authentication: JWT
 - File Storage: Cloudinary / Local File System

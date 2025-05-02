@@ -2,6 +2,8 @@
 import React from "react";
 import Link from "next/link";
 import { Meteors } from "@/components/ui/meteors";
+import Navbar from "@/components/Navbar";
+import Footer from "@/components/ui/Footer";
 
 export default function StudentDashboard() {
   const proposalStatus = "Approved"; // Mock status
@@ -10,6 +12,7 @@ export default function StudentDashboard() {
 
   return (
     <div className="">
+      <Navbar />
       <div className="grid grid-cols-1  lg:grid-cols-2 gap-5   pt-36 justify-items-center">
         {/* Card 1 */}
         <div className="flex justify-center">
@@ -172,6 +175,7 @@ export default function StudentDashboard() {
           </div>
         </div>
       </div>
+      <Footer />
     </div>
   );
 }
