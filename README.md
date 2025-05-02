@@ -1,37 +1,104 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Final Year Project (FYP) Management System
 
-## Getting Started
+A full-stack web application designed to manage Final Year Projects for universities, enabling smooth collaboration between students, supervisors, and admins. It simplifies proposal submission, feedback exchange, file uploads, and grading in one centralized system.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 👥 Group Members
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Haj Wali
+- Zohaib Ahmed
+- Okasha Arif
+- Saad Ahmed
+- Umar Mustafa
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📝 Brief Introduction
 
-## Learn More
+The FYP Management System is a role-based platform where:
 
-To learn more about Next.js, take a look at the following resources:
+- Students can submit project proposals, upload reports, and receive feedback.
+- Supervisors can review proposals, provide comments, and assign grades.
+- Admins can manage users, oversee project statuses, and generate reports.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+This system improves transparency, reduces paperwork, and tracks progress from project proposal to final evaluation.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 🔁 Process Flow
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. User Registration & Login
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# music-next-js
+   - Role-based login for students, supervisors, and admins.
+
+2. Proposal Submission
+
+   - Students submit project ideas which are assigned to supervisors for review.
+
+3. Supervisor Review
+
+   - Proposals are approved, rejected, or sent for revision with feedback.
+
+4. Project Creation
+
+   - Upon approval, a project is created and development begins.
+
+5. Submission of Files
+
+   - Students upload reports, presentations, and code files.
+
+6. Feedback & Revisions
+
+   - Supervisors review and provide suggestions; students can revise.
+
+7. Grading
+
+   - Supervisors assign grades based on defined criteria.
+
+8. Completion
+   - Projects are marked complete; final reports can be generated.
+
+---
+
+## 📦 Assigned Use Cases to Students
+
+| Member Name  | Assigned UC                                |
+| ------------ | ------------------------------------------ |
+| Haj Wali     | User Authentication & Role-based Dashboard |
+| Zohaib Ahmed | Proposal Submission & Status Tracking      |
+| Okasha Arif  | Supervisor Review & Feedback System        |
+| Saad Ahmed   | File Upload Module & Submission Handling   |
+| Umar Mustafa | Grading System & Admin Monitoring Panel    |
+
+---
+
+## 📌 Tech Stack (Suggested)
+
+- Frontend: React.js + Tailwind CSS
+- Backend: Node.js + Express.js
+- Database: MongoDB
+- Authentication: JWT
+- File Storage: Cloudinary / Local File System
+
+---
+
+## 📷 ER Diagram & Flowcharts
+
+> Add ER diagram and process flow diagram images here when available.
+
+---
+
+## 🚀 Getting Started (Instructions)
+
+To be added once codebase is implemented:
+
+- Installation steps
+- Running frontend/backend
+- Environment setup
+
+---
+
+## 📄 License
+
+This project is for academic purposes only.
