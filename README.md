@@ -7,9 +7,9 @@ A full-stack web application designed to manage Final Year Projects for universi
 ## 👥 Group Members
 
 - Haj Wali
-- Zohaib Ahmed
-- Okasha Arif
-- Saad Ahmed
+- Zohaib Ahmed https://github.com/zoaib-7ti/SDA-Theory-assignment-1
+- Okasha Arif https://github.com/Okasha-xyz/SDA-Theory-Assignment-1
+- Saad Ahmed https://github.com/saad0366/SDA-Theory-Assignment-1
 - Umar Mustafa
 
 ---
