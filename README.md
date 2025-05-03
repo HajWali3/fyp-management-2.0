@@ -25,8 +25,6 @@ This folder contains all the analysis and design documentation, further divided 
 
 ---
 
-Let me know if you want this embedded into a full README or if you'd like me to help generate the markdown file.
-
 ## 👥 Group Members
 
 - Haj Wali
