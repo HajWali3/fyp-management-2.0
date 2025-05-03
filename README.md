@@ -4,6 +4,33 @@ A full-stack web application designed to manage Final Year Projects for universi
 
 ---
 
+Sure! Here's a more polished and professional version of the Repository Overview section for your README:
+
+---
+
+## 📁 Repository Overview
+
+This repository contains : `TheoryAssignment` along with code, representing the theoretical and implementation components of the FYP Management System.
+
+### 🧠 TheoryAssignment
+
+This folder contains all the analysis and design documentation, further divided into:
+
+- Design
+
+  - Class Diagram of the entire system.
+
+- Analysis
+
+  - Use Case Diagram for the whole project.
+  - Fully Dressed Use Cases, individually contributed by team members, covering their assigned modules.
+  - System Sequence Diagrams (SSDs) .
+  - Communication Diagrams modeled using GRASP principles.
+
+---
+
+Let me know if you want this embedded into a full README or if you'd like me to help generate the markdown file.
+
 ## 👥 Group Members
 
 - Haj Wali
