@@ -4,10 +4,6 @@ A full-stack web application designed to manage Final Year Projects for universi
 
 ---
 
-Sure! Here's a more polished and professional version of the Repository Overview section for your README:
-
----
-
 ## 📁 Repository Overview
 
 This repository contains : `TheoryAssignment` along with code, representing the theoretical and implementation components of the FYP Management System.
