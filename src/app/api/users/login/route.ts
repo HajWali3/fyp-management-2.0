@@ -43,7 +43,7 @@ export async function POST(request: NextRequest) {
     });
 
     const response = NextResponse.json({
-      message: "Yser logged in successfully",
+      message: "User logged in successfully",
       success: true,
     });
 
