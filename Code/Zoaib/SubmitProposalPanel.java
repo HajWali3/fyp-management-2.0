@@ -1,7 +1,6 @@
-package Zoaib;
 import javax.swing.*;
-
 import java.awt.*;
+import java.awt.event.*;
 import java.time.LocalDateTime;
 
 public class SubmitProposalPanel extends JPanel {

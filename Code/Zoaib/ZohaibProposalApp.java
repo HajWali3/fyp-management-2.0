@@ -1,4 +1,3 @@
-package Zoaib;
 import javax.swing.*;
 
 public class ZohaibProposalApp {
