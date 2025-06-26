@@ -1,4 +1,3 @@
-package Zoaib;
 public class ProposalModel {
     private String title;
     private String objective;
